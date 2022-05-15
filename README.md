@@ -1,5 +1,5 @@
 # RLIF
-Demo code of the paper "Relaxation LIF: A Gradient-based Spiking Neuron for Directly Training Deep Spiking Neural Networks"
+Demo code of the paper "Relaxation LIF: A Gradient-based Spiking Neuron for Direct Training Deep Spiking Neural Networks"
 
 ## Run on CIFAR10
 ```
